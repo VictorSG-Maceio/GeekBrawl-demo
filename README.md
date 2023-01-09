@@ -5,5 +5,5 @@
 - Aula 3: Instâncias e construção do Tiro
 - Aula 4: Criação e Spawn do Inimigo
 - Aula 5: Colisões e Morte do Inimigo
-- Aula 6: HUD
+- Aula 6: HUD (Canvas Layer)
 - Aula 7: Desenvolvendo Cenários (TileMap)
